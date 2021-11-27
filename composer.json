@@ -1,7 +1,7 @@
 {
-  "name": "carlonicora/minimalism-interface-mailer-twig",
+  "name": "carlonicora/minimalism-service-mailer-twig",
   "description": "Twig email extension for minimalism",
-  "version": "1.0.0-alpha1",
+  "version": "1.0.0-alpha2",
   "homepage": "https://carlonicora.com",
   "time": "2020-06-13",
   "license": "MIT",
