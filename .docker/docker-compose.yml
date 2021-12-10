@@ -1,9 +1,9 @@
 version: '3.8'
 
 services:
-  minimalism-interface-mailer-twig:
-    container_name: minimalism-interface-mailer-twig
-    image: carlonicora/minimalism-interface-mailer-twig:1.0
+  minimalism-service-mailer-twig:
+    container_name: minimalism-service-mailer-twig
+    image: carlonicora/minimalism-service-mailer-twig:1.0
     build:
       context: .
       dockerfile: ./php-cli/Dockerfile
